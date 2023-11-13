@@ -1,0 +1,16 @@
+{
+  "useTabs": false,
+  "printWidth": 90,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "semi": false,
+  "removeUnusedImports": false,
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"],
+      "options": {
+        "semi": true
+      }
+    }
+  ]
+}
